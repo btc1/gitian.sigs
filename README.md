@@ -12,3 +12,5 @@ you're building**, so for example https://github.com/bitpay/bitcoin/blob/v0.12.0
 [Instructions for setting up a gitian build environment](https://github.com/bitpay/bitcoin/blob/master/doc/gitian-building.md)
 can also be found there.
 
+# gitian.sigs
+gitian signatures for the btc1 project releases.
